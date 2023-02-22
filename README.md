@@ -2,7 +2,7 @@ MimeMagic is a library to detect the mime type of a file by extension or by cont
 provided by freedesktop.org (see http://freedesktop.org/wiki/Software/shared-mime-info/).
 
 ## Deprecated
-This is older version of (mimemagic)[https://github.com/mimemagicrb/mimemagic] which is no longer available on rubygems. Adding this here for support of the older applications.
+This is older version of [mimemagic](https://github.com/mimemagicrb/mimemagic) which is no longer available on rubygems. Adding this here for support of the older applications.
 
 
 Usage
