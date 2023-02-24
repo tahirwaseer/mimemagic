@@ -5,6 +5,13 @@ provided by freedesktop.org (see http://freedesktop.org/wiki/Software/shared-mim
 This is older version of [mimemagic](https://github.com/mimemagicrb/mimemagic) which is no longer available on rubygems. Adding this here for support of the older applications.
 
 
+Install
+=====
+
+Require in `Gemfile`
+```
+gem 'mimemagic', '0.3.0',   git: 'http://github.com/tahirwaseer/mimemagic.git', branch: 'main'
+```
 Usage
 =====
 
